@@ -3,14 +3,13 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import MainScreen from '../components/screens/MainScreen/MainScreen';
 import WelcomeScreen from '../components/screens/WelcomeScreen/WelcomeScreen';
 
-
 const RootRouter = () => {
   return (
     <Router>
       <div>
         <Switch>
           <Route exact path='/'>
-          <WelcomeScreen />
+            <WelcomeScreen />
           </Route>
           <Route path='/net-worth'>
             <MainScreen />
