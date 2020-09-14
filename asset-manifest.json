@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shakepay/static/css/main.efcf7c01.chunk.css",
+    "main.js": "/shakepay/static/js/main.9df14b4e.chunk.js",
+    "main.js.map": "/shakepay/static/js/main.9df14b4e.chunk.js.map",
+    "runtime-main.js": "/shakepay/static/js/runtime-main.4a4d9217.js",
+    "runtime-main.js.map": "/shakepay/static/js/runtime-main.4a4d9217.js.map",
+    "static/css/2.3fc0b03d.chunk.css": "/shakepay/static/css/2.3fc0b03d.chunk.css",
+    "static/js/2.f7d3d3ad.chunk.js": "/shakepay/static/js/2.f7d3d3ad.chunk.js",
+    "static/js/2.f7d3d3ad.chunk.js.map": "/shakepay/static/js/2.f7d3d3ad.chunk.js.map",
+    "index.html": "/shakepay/index.html",
+    "precache-manifest.cf52510ec1981aacf50be3a9f68179c4.js": "/shakepay/precache-manifest.cf52510ec1981aacf50be3a9f68179c4.js",
+    "service-worker.js": "/shakepay/service-worker.js",
+    "static/css/2.3fc0b03d.chunk.css.map": "/shakepay/static/css/2.3fc0b03d.chunk.css.map",
+    "static/css/main.efcf7c01.chunk.css.map": "/shakepay/static/css/main.efcf7c01.chunk.css.map",
+    "static/js/2.f7d3d3ad.chunk.js.LICENSE.txt": "/shakepay/static/js/2.f7d3d3ad.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/shakepay/static/media/logo.c2468d46.png",
+    "static/media/index.css": "/shakepay/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4d9217.js",
+    "static/css/2.3fc0b03d.chunk.css",
+    "static/js/2.f7d3d3ad.chunk.js",
+    "static/css/main.efcf7c01.chunk.css",
+    "static/js/main.9df14b4e.chunk.js"
+  ]
+}

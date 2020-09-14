@@ -1,0 +1,1 @@
+{"version":3,"sources":["MainScreen.module.css","WelcomeScreen.module.css"],"names":[],"mappings":"AAAA,wBACI,YACJ,CAEA,iCACI,yBACJ,CCNA,2BACI,YACJ","file":"main.efcf7c01.chunk.css","sourcesContent":[".root {\r\n    height: 100vh;\r\n}\r\n\r\n.underlineText { \r\n    text-decoration: underline;\r\n}",".root {\r\n    height: 100vh;\r\n}\r\n"]}
